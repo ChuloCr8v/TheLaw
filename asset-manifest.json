@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.81932ff5.chunk.css",
+    "main.js": "/static/js/main.1b1368e5.chunk.js",
+    "main.js.map": "/static/js/main.1b1368e5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.221f308c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.221f308c.js.map",
+    "static/js/2.75c2ca9a.chunk.js": "/static/js/2.75c2ca9a.chunk.js",
+    "static/js/2.75c2ca9a.chunk.js.map": "/static/js/2.75c2ca9a.chunk.js.map",
+    "static/js/3.979d036b.chunk.js": "/static/js/3.979d036b.chunk.js",
+    "static/js/3.979d036b.chunk.js.map": "/static/js/3.979d036b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.81932ff5.chunk.css.map": "/static/css/main.81932ff5.chunk.css.map",
+    "static/js/2.75c2ca9a.chunk.js.LICENSE.txt": "/static/js/2.75c2ca9a.chunk.js.LICENSE.txt",
+    "static/media/attorney-1.f4b47c65.jpg": "/static/media/attorney-1.f4b47c65.jpg",
+    "static/media/attorney-2.d299ff07.jpg": "/static/media/attorney-2.d299ff07.jpg",
+    "static/media/attorney-3.d1a075ff.jpg": "/static/media/attorney-3.d1a075ff.jpg",
+    "static/media/attorney-4.519fd247.jpg": "/static/media/attorney-4.519fd247.jpg",
+    "static/media/attorney-5.e19c818b.jpg": "/static/media/attorney-5.e19c818b.jpg",
+    "static/media/faqs.2575fccd.jpg": "/static/media/faqs.2575fccd.jpg",
+    "static/media/review1.52b345b3.jpg": "/static/media/review1.52b345b3.jpg",
+    "static/media/review2.c5eb80a0.jpg": "/static/media/review2.c5eb80a0.jpg",
+    "static/media/review3.f1002bb4.jpg": "/static/media/review3.f1002bb4.jpg",
+    "static/media/slider-2.bef9dd18.jpg": "/static/media/slider-2.bef9dd18.jpg",
+    "static/media/slider-3.31925731.jpg": "/static/media/slider-3.31925731.jpg",
+    "static/media/team.f6c075f6.jpg": "/static/media/team.f6c075f6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.221f308c.js",
+    "static/js/2.75c2ca9a.chunk.js",
+    "static/css/main.81932ff5.chunk.css",
+    "static/js/main.1b1368e5.chunk.js"
+  ]
+}
